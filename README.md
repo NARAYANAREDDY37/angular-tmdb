@@ -7,7 +7,7 @@ Angular TMDB | TV Shows is a simple web app that consumes The Movie DB API, it c
 See **Installing** for steps to make it work in your local environment.
 ## 💻 Live Demo
 
-✔ Github Pages: https://jancobh.github.io/Angular-TMDB/
+✔ Github Pages: https://angular-tmdb-delta.vercel.app/
 
 ## 📋 Prerequisites
 
